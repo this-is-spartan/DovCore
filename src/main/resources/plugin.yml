@@ -1,0 +1,4 @@
+name: DovCore
+version: ${project.version}
+main: com.vomet.dovcore.DovCorePlugin
+api-version: 1.16
